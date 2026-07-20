@@ -2,7 +2,7 @@
 
 A hardware tool that automatically switches between standard UART serial communication and UPDI programming modes using USB RTS control, featuring a CH340E bridge and integrated RS2228 analog multiplexer.
 
----
+![Rendering](https://github.com/Grunwalskii/UPDI-Serial-Auto-Programmer/blob/main/Images/3DRendering.png)
 
 ## 🔌 Project Overview
 
